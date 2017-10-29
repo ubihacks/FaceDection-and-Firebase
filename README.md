@@ -10,6 +10,8 @@ install openCV
 install matplotlib
 
 
-#for Firebase
+#  For Firebase
+
+A simple python wrapper for the Firebase API.
 
 install pyrebase
